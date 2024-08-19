@@ -1,0 +1,4 @@
+[core]
+    remote = kestrel
+['remote "kestrel"']
+    url = ssh://kl3.hpc.nrel.gov:/projects/hfm/meshes
